@@ -1,1 +1,3 @@
-console.log("new code");
+function main(verb, noun) {
+  return verb + noun;
+}
